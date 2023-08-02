@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "name": "Litecoinpool.org",
+        "addresses": [
+            "DMr3fEiVrPWFpoCWS958zNtqgnFb7QWn9D"
+        ],
+        "tags": [
+            "/LP/"
+        ],
+        "link": "https://litecoinpool.org"
+    },
+    {
+        "id": 2,
+        "name": "F2Pool",
+        "addresses": [
+            "DMqRVLrhbam3Kcfddpxd6EYvEBbpi3bEpP"
+        ],
+        "tags": [
+            "/F2Pool/",
+            "🐟"
+        ],
+        "link": "https://www.f2pool.com"
+    },
+    {
+        "id": 3,
+        "name": "Mining Dutch",
+        "addresses": [
+            "D6vgVpUszZ4yPZN2SC7vJus9BkrLnBn2wn"
+        ],
+        "tags": [
+            "/Mining-Dutch/"
+        ],
+        "link": "https://www.mining-dutch.nl"
+    },
+    {
+        "id": 4,
+        "name": "BTC.com",
+        "addresses": [
+            "DPwQPzebSMcN4kzkcdEvqE8rE2r8SfJ8pC"
+        ],
+        "tags": [
+            "/BTC.COM/",
+            "/BTC.com/",
+            "btccom"
+        ],
+        "link": "https://pool.btc.com"
+    },
+    {
+        "id": 5,
+        "name": "AntPool",
+        "addresses": [
+            "DTZSTXecLmSXpRGSfht4tAMyqra1wsL7xb"
+        ],
+        "tags": [
+            "/AntPool/",
+            "Mined By AntPool"
+        ],
+        "link": "https://www.antpool.com"
+    },
+    {
+        "id": 6,
+        "name": "NiceHash",
+        "addresses": [],
+        "tags": [
+            "/NiceHash/"
+        ],
+        "link": "https://nicehash.com"
+    },
+    {
+        "id": 7,
+        "name": "Poolin",
+        "addresses": [
+            "D7TwgtxmwJaqEBagCtPhg2VW48zuPZDJKo"
+        ],
+        "tags": [
+            "/poolin.com",
+            "/poolin/"
+        ],
+        "link": "https://www.poolin.com"
+    },
+    {
+        "id": 8,
+        "name": "ViaBTC",
+        "addresses": [],
+        "tags": [
+            "/ViaBTC/",
+            "viabtc.com",
+            "/ViaLTC/"
+        ],
+        "link": "https://viabtc.com"
+    },
+    {
+        "id": 9,
+        "name": "HyperDonkey",
+        "addresses": [
+            "DCcmoB1kEYkdKahUbiiNkUPwsnFAsqsKuy"
+        ],
+        "tags": [],
+        "link": "https://p2pool.hyperdonkey.com"
+    },
+    {
+        "id": 10,
+        "name": "zpool",
+        "addresses": [
+            "DQDDKRSSnRDmX28tdQpAJzzaZdtGAaYjpe"
+        ],
+        "tags": [
+            "www.zpool.ca"
+        ],
+        "link": "https://www.zpool.ca"
+    },
+    {
+        "id": 11,
+        "name": "zergpool",
+        "addresses": [
+            "D5d9fY5dYNB83k3uEvoJe1DbYBzW33cYX8"
+        ],
+        "tags": [
+            "zergpool.com"
+        ],
+        "link": "https://zergpool.com"
+    },
+    {
+        "id": 12,
+        "name": "aikapool",
+        "addresses": [
+            "DTdxHpxeR5LDKheAKzyW75avXWukkPUyDN"
+        ],
+        "tags": [],
+        "link": "https://aikapool.com"
+    },
+    {
+        "id": 13,
+        "name": "CoinMinerz",
+        "addresses": [
+            "D5ocNbZHk5w3QHy4GZtvxcy1pLvGJp3VsQ"
+        ],
+        "tags": [
+            "/CoinMinerz.com/",
+            "coinminerz"
+        ],
+        "link": "https://coinminerz.com/"
+    },
+    {
+        "id": 14,
+        "name": "zulupool",
+        "addresses": [
+            "DGp3nvMAJM8pfnjg6YZPsRZqmxv2etCbMr"
+        ],
+        "tags": [
+            "ZULUPooL-DOGE",
+            "zulupool.com"
+        ],
+        "link": "https://beta.zulupool.com"
+    },
+    {
+        "id": 15,
+        "name": "MiningMyPool",
+        "addresses": [
+            "DEYZmtnz2Uh9v5EyLHwEwEBexhV4HgUDZt"
+        ],
+        "tags": [],
+        "link": "https://miningmypool.com/"
+    }
+]
